@@ -71,7 +71,7 @@ Requirements
 ### Running in an IDE
 
 1. Clone the repository
-git clone https://github.com/yourusername/notepadgg.git
+git clone https://github.com/GEORGE-AUDITORE/notepadgg.git
 
 2. Open the project in your IDE.
 
